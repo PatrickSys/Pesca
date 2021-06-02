@@ -1,0 +1,10 @@
+#Tiburón cabeza de pala#0.005#2.5#10.8#
+#Mero de Nassau#0.03#0.5#13#
+#Mero rojo#0.06#0.5#17#
+#Perca americana#0.12#0.5#3.6#
+#Bouquinete#0.2#0.5#1.6#
+#Sargo chopa#0.3#0.75#3.8#
+#Pez león#0.4#0.5#2.0#
+#Pargo de cola amarilla#0.50#0.5#2.2#
+#Pargo criollo#0.70#0.12#1.8#
+#Corocoro#1.1#0.2#2.3#
